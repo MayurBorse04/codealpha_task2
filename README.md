@@ -1,1 +1,1 @@
-# codealpha_task2
+# codealpha_task2 Drug Formulation Case Study (Oral Tablet Dosage Form). It covers the target product profile, excipient matrix, wet granulation & tableting process, stability factors with mathematical kinetics, common manufacturing defects, quality control attributes, and key takeaways.
